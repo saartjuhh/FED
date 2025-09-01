@@ -16,10 +16,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+  Sarah Bouziane
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  Rood, omdat ik dit voor de 2de keer opnieuw doe. Ik ken mijn weg dus wel een beetje rond coderen alleen doe het echt niet vaak genoeg (vandaar dat ik het ook niet heb gehaald). Bepaalde onderwerpen wel zeker blauw (geen idee hoe bepaalde stukken code werken als ik het in mijn eentje moet doen).
 
   #### Je focus:
   hier je focus (kies uit responsive óf surface plane)
