@@ -22,7 +22,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Rood, omdat ik dit voor de 2de keer opnieuw doe. Ik ken mijn weg dus wel een beetje rond coderen alleen doe het echt niet vaak genoeg (vandaar dat ik het ook niet heb gehaald). Bepaalde onderwerpen wel zeker blauw (geen idee hoe bepaalde stukken code werken als ik het in mijn eentje moet doen).
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+  ?
  
 </details>
 
@@ -36,15 +36,20 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  https://www.joejuice.com/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/home.png" width="375px" alt="homepagina">
+  <img src="readme-images/home2.png" width="375px" alt="homepagina">
+  <img src="readme-images/home3.png" width="375px" alt="homepagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/app.png" width="375px" alt="app pagina">
+  <img src="readme-images/app2.png" width="375px" alt="app pagina">
+  <img src="readme-images/app3.png" width="375px" alt="app pagina">
+  <img src="readme-images/app4.png" width="375px" alt="app pagina">
  
 </details>
 
@@ -57,6 +62,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+
+  <img src="readme-images/bevindingen.png" width="375px" alt=" website bevindingen">
 
 </details>
 
