@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-Loyalty_Cards">
+      <rect width="50" height="50"/>
+    </clipPath>
+  </defs>
+  <g id="Loyalty_Cards" data-name="Loyalty Cards" clip-path="url(#clip-Loyalty_Cards)">
+    <g id="_02_Icons_tabbar_cards_active" data-name="02 Icons / tabbar / cards active" transform="translate(5.401 7.96)">
+      <path id="Rectangle_Copy_2" data-name="Rectangle Copy 2" d="M5.482,19.506,0,19.5V0H28.5V11.69" transform="translate(0 5.438) rotate(-11)" fill="none" stroke="#24272a" stroke-miterlimit="10" stroke-width="4"/>
+      <rect id="Rectangle_Copy_3" data-name="Rectangle Copy 3" width="29" height="20" transform="translate(13.599 16.04)" fill="#f7c1d9"/>
+      <rect id="Rectangle_Copy_3-2" data-name="Rectangle Copy 3" width="28" height="19" transform="translate(9.599 12.04)" fill="none" stroke="#24272a" stroke-miterlimit="10" stroke-width="4"/>
+    </g>
+  </g>
+</svg>

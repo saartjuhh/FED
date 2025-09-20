@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-How_to">
+      <rect width="50" height="50"/>
+    </clipPath>
+  </defs>
+  <g id="How_to" data-name="How to" clip-path="url(#clip-How_to)">
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="24.879" height="18.66" transform="translate(24.36 13.36)" fill="#f7c1d9"/>
+    <g id="_02_Icons_navigation_profile" data-name="02 Icons / navigation / profile" transform="translate(2.761 21.741)">
+      <path id="Rectangle" d="M0,6.707H0C0,3,2.41,0,5.383,0h7.177c2.973,0,5.383,3,5.383,6.707h0" transform="translate(0 13.05)" fill="none" stroke="#24272a" stroke-miterlimit="10" stroke-width="4"/>
+      <ellipse id="Oval" cx="4.593" cy="4.517" rx="4.593" ry="4.517" transform="translate(4.379 0)" fill="#24272a"/>
+    </g>
+    <path id="Path_3" data-name="Path 3" d="M0,11.5,12.965,0" transform="matrix(0.995, -0.105, 0.105, 0.995, 28.486, 21.184)" fill="none" stroke="#24272a" stroke-linecap="round" stroke-width="1"/>
+    <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(19.642 8.502)" fill="none" stroke="#24272a" stroke-width="4">
+      <rect width="26.342" height="19.757" stroke="none"/>
+      <rect x="2" y="2" width="22.342" height="15.757" fill="none"/>
+    </g>
+    <path id="Path_4" data-name="Path 4" d="M0,9.217,5.859,0" transform="translate(22.778 32.764) rotate(13)" fill="none" stroke="#24272a" stroke-linecap="round" stroke-width="4"/>
+  </g>
+</svg>

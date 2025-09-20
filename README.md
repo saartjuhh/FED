@@ -95,26 +95,45 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Jammer genoeg was ik ziek de afgelopen dagen dus heb alleen breakdown schetses gemaakt.
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  We wouden allemaal onze html bespreken en elkaars feedback opschrijven waar wij iets van leren. Ik had geen html dus heb vooral meegschreven en er zijn tussendoor ook wat vragen van mij beantwoord.
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
+  hier na afloop snel de uitkomsten van de meeting vastleggen 
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - je mag meer dan 1 nav in je header
+  - ul li en a in je nav
+  - decroatieve plaatjes in css en niet html
+  - Geen duidelijke H1 dan moet je omschrijven pagina in h1, wegstoppen en beginnen met h2
+  - makkelijke drop down:
+
+  <form>
+
+    <label for="">
+      titel..
+    
+    </label> en dan label hiden door code van a11y hide content 
+    <select>
+      <option>blabla</option>
+
+    </select>
+  
+  
+  </form>
+  <select>
+  </select>
+
+  Misschien kan ik dit gebruiken voor in mijn footer ( de dropdown links )
+
+  - https://chrome.dev/carousel-configurator voor carousel bron Adam argyle
+  - html hiervoor is ul met li en dan css aanspreken .ul bijv
+
 
 </details>
 

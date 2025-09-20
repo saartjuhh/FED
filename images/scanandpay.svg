@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-Scan_Pay">
+      <rect width="50" height="50"/>
+    </clipPath>
+  </defs>
+  <g id="Scan_Pay" data-name="Scan &amp; Pay" clip-path="url(#clip-Scan_Pay)">
+    <g id="_02_Icons_tabbar_qr" data-name="02 Icons / tabbar / qr" transform="translate(4 3)">
+      <rect id="Rectangle_Copy_3" data-name="Rectangle Copy 3" width="36" height="36" transform="translate(6 6)" fill="#f7c1d9"/>
+      <rect id="Rectangle" width="9" height="9" transform="translate(2 2)" fill="none" stroke="#24272a" stroke-miterlimit="10" stroke-width="4"/>
+      <rect id="Rectangle-2" data-name="Rectangle" width="9" height="9" transform="translate(27 2)" fill="none" stroke="#24272a" stroke-miterlimit="10" stroke-width="4"/>
+      <rect id="Rectangle-3" data-name="Rectangle" width="9" height="9" transform="translate(2 27)" fill="none" stroke="#24272a" stroke-miterlimit="10" stroke-width="4"/>
+      <path id="Path" d="M2.727,0H-3V5.727" transform="translate(35.455 21)" fill="none" stroke="#24272a" stroke-miterlimit="10" stroke-width="4"/>
+      <path id="Path-2" data-name="Path" d="M-3,0V7.636H2.727" transform="translate(22.091 13.364)" fill="none" stroke="#24272a" stroke-miterlimit="10" stroke-width="4"/>
+      <path id="Path-3" data-name="Path" d="M-.5,0V3.818" transform="translate(36.773 34.364)" fill="none" stroke="#24272a" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path-4" data-name="Path" d="M-2.5,1H1.318" transform="translate(2.5 18.091)" fill="none" stroke="#24272a" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path-5" data-name="Path" d="M-4.5,1H3.136" transform="translate(4.5 18.091)" fill="none" stroke="#24272a" stroke-miterlimit="10" stroke-width="4"/>
+      <path id="Path-6" data-name="Path" d="M-.5,0V3.818" transform="translate(19.591)" fill="none" stroke="#24272a" stroke-miterlimit="10" stroke-width="4"/>
+      <path id="Path_2" data-name="Path 2" d="M17.182,5.727H9.545V0H0" transform="translate(36.273 36.273) rotate(180)" fill="none" stroke="#24272a" stroke-miterlimit="10" stroke-width="4"/>
+    </g>
+  </g>
+</svg>

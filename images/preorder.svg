@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-Pre-Order">
+      <rect width="50" height="50"/>
+    </clipPath>
+  </defs>
+  <g id="Pre-Order" clip-path="url(#clip-Pre-Order)">
+    <path id="Path_2" data-name="Path 2" d="M-3323.593,7780.189h39.977l-6.362-35.552h-26.971Z" transform="translate(3331.933 -7733.864)" fill="#f7c1d9"/>
+    <g id="_02_Icons_navigation_cart" data-name="02 Icons / navigation / cart" transform="translate(5 7)">
+      <path id="Combined_Shape" data-name="Combined Shape" d="M9.095,0H31.154l.3,1.889L37,34H0L3.06,16.3l1.6-9.269" transform="translate(0 0)" fill="none" stroke="#24272a" stroke-miterlimit="10" stroke-width="4"/>
+      <path id="Rectangle" d="M5.713,0H28.245L26.362,7.532H0" transform="translate(28.777 7.532) rotate(180)" fill="none" stroke="#24272a" stroke-miterlimit="10" stroke-width="4"/>
+      <path id="_1" data-name="1" d="M4.986,0H8.46V-12.492H5.544a8.59,8.59,0,0,1-3.6,2v2.772A9.656,9.656,0,0,0,4.986-9.27Z" transform="translate(13 27)" fill="#24272a"/>
+    </g>
+  </g>
+</svg>
